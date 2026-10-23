@@ -1,0 +1,13 @@
+﻿# Compiled Java files
+*.class
+build/
+bin/
+target/
+
+# IDE and operating system files
+.metadata/
+.DS_Store
+Thumbs.db
+
+# Local secrets and configuration
+.env
